@@ -1,0 +1,10 @@
+{
+  "dart.flutterRunAdditionalArgs": [
+    "--web-port",
+    "8080",
+    "--web-hostname",
+    "0.0.0.0",
+    "--web-launch-url",
+    "http://localhost:8080/"
+  ]
+}
